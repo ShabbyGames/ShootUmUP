@@ -1,4 +1,4 @@
-package gd2.utils.utils {
+package utils.utils {
 	
 	public class Time {
 		public static const SECOND:Number = 1000000000;

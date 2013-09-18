@@ -1,4 +1,4 @@
-package gd2.utils.utils {
+package utils.utils {
 	import com.snakybo.as3framework.math.Vector3f;
 	
 	public class ColorConverter {

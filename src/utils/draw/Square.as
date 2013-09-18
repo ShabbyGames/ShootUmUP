@@ -1,4 +1,4 @@
-package gd2.utils.draw
+package utils.draw
 {
 	import flash.display.Sprite;
 	import flash.events.MouseEvent;

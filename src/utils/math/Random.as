@@ -1,4 +1,4 @@
-package gd2.utils.math 
+package utils.math 
 {
 	public class Random
 	{

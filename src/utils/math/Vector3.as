@@ -1,4 +1,4 @@
-package com.snakybo.misslecommand.util {
+package utils.math {
 	
 	public class Vector3 {
 		private var x:Number;

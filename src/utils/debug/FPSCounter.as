@@ -1,4 +1,4 @@
-package gd2.utils.debug {
+package utils.debug {
 	import flash.utils.getTimer;
 	
 	public class FPSCounter {
